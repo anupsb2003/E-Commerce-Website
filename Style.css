@@ -1,0 +1,14 @@
+.box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inbox
+{
+    padding: 10px;
+}
+.card
+{
+    width: 18rem;
+}
